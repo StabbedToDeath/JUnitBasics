@@ -5,6 +5,12 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>JUntiBasics</name>
   
+  <properties>
+  	
+  	<maven.compiler.target>11</maven.compiler.target>
+  	<maven.compiler.source>11</maven.compiler.source>
+  	
+  </properties>
   <dependencies>
   	
   	<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
